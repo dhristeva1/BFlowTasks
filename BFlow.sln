@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BFlow", "BFlow\BFlow.csproj", "{52FB75B4-EFED-4720-8D0B-1D00599DE472}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{FFC846B1-887F-45B8-8AB2-38D717105872}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuplicateCharacters", "DuplicateCharacters\DuplicateCharacters.csproj", "{47F077EA-8281-4B6C-AFFA-2DE834B79D16}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task2", "Task2", "{0CF4E8D1-9645-454C-8CA2-E6F0F205C751}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubsequentArray", "SubsequentArray\SubsequentArray.csproj", "{0DA71A10-FA9E-4C84-8AA2-4EF5862E2D93}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task3", "Task3", "{B1F74760-3FCA-48F4-B88B-5FBEE61F63A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridGame", "GridGame\GridGame.csproj", "{E26AA5A8-0ADA-4E75-81A9-E0C3F6751AA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52FB75B4-EFED-4720-8D0B-1D00599DE472}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52FB75B4-EFED-4720-8D0B-1D00599DE472}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52FB75B4-EFED-4720-8D0B-1D00599DE472}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52FB75B4-EFED-4720-8D0B-1D00599DE472}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47F077EA-8281-4B6C-AFFA-2DE834B79D16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47F077EA-8281-4B6C-AFFA-2DE834B79D16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47F077EA-8281-4B6C-AFFA-2DE834B79D16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47F077EA-8281-4B6C-AFFA-2DE834B79D16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DA71A10-FA9E-4C84-8AA2-4EF5862E2D93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DA71A10-FA9E-4C84-8AA2-4EF5862E2D93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DA71A10-FA9E-4C84-8AA2-4EF5862E2D93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DA71A10-FA9E-4C84-8AA2-4EF5862E2D93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E26AA5A8-0ADA-4E75-81A9-E0C3F6751AA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E26AA5A8-0ADA-4E75-81A9-E0C3F6751AA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E26AA5A8-0ADA-4E75-81A9-E0C3F6751AA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E26AA5A8-0ADA-4E75-81A9-E0C3F6751AA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{47F077EA-8281-4B6C-AFFA-2DE834B79D16} = {FFC846B1-887F-45B8-8AB2-38D717105872}
+		{0DA71A10-FA9E-4C84-8AA2-4EF5862E2D93} = {0CF4E8D1-9645-454C-8CA2-E6F0F205C751}
+		{E26AA5A8-0ADA-4E75-81A9-E0C3F6751AA6} = {B1F74760-3FCA-48F4-B88B-5FBEE61F63A9}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A005A9AF-55AF-4EB9-AACA-D097C0DBF35C}
+	EndGlobalSection
+EndGlobal
